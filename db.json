@@ -5,7 +5,7 @@
         {"name": "Paris", "temperature": 22},
     "New York":
         {"name": "New York", "temperature": 222},
-    "Sydney"
+    "Sydney":
         {"name": "Sydney", "temperature": 2222}
   ]
 }
